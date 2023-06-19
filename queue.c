@@ -5,7 +5,7 @@ int rear=-1,front=-1;
 int queue[size];
 void enqueue()
 {
- if(rear==size-1)
+ if(rear==size-2)
  {
   printf("no space to enqueue\n");
  }
