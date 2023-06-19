@@ -15,7 +15,7 @@ int main()
  {
   printf("%d ",array[i]);
  }
- for(int i=0;i<MAX;i++)
+ for(int i=1;i<MAX;i++)
  {
   for(int j=0;j<MAX;j++)
   {
